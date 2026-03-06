@@ -1,3 +1,263 @@
+<<<<<<< HEAD
+/*body {
+    background-color:#DEDEDE ;
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}*/
+
+/*
+Himti Study Tour Section =======================================================================================
+*/
+
+.header_section {
+    background-color:#DEDEDE ;
+}
+
+.web_width {
+    width: 1728px;
+    height: 5700px;
+}
+
+.Get_started {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.Get_started a {
+    background-color: #007BFF;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 20px;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.city_image img {
+    width: 100%;
+    height: 100%;
+    display: block;
+    text-align:center;
+    justify-content: center;
+    margin-top: -100px;
+}
+
+.center-text {
+    text-align: center;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between; 
+    align-items: center;
+    padding: 15px 40px;
+    font-weight: bold;
+}
+
+.logo {
+    width: 40px;  
+    height: auto;
+}
+
+nav {
+    display: flex;
+    gap: 25px;
+    
+}
+
+.nav-btn {
+    text-decoration: none;
+    color: black;
+    
+}
+
+.nav-btn:hover {
+    color: blue;
+}
+
+.header1{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    font-size: 20px;
+}
+
+/*
+Events Section =======================================================================================
+*/
+
+/*
+About Us Section =======================================================================================
+*/
+.aboutUs-section {
+    background-color: #4DA9E5;
+    min-height: 100vh;
+}
+
+/*
+Contact Us Section =======================================================================================
+*/
+.contact-section {
+    margin: 0;
+    padding: 40px 0;
+    background-color: #3A75D4;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.form-container {
+    width: 100%;
+    max-width: 829px;
+    padding: 20px;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Poppins';
+    font-weight: 600;
+    font-size: 96px;
+    line-height: 100%;
+    color: #FFFFFF;
+    margin-top: 0;
+    margin-bottom: 120px;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    max-width: 829px;
+    margin: 0 auto;
+}
+
+input[type="text"],
+input[type="email"],
+textarea,
+button {
+    font-family: 'Montserrat';
+    line-height: 50px;
+    background-color: #FFFFFF;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0px 4px 4px 0px rgba(0,0,0,0.25);
+}
+
+input[type="text"],
+input[type="email"] {
+    width: 100%;
+    height: 86px;
+    padding: 30px;
+    margin-bottom: 70px;
+
+    font-weight: 500;
+    font-size: 20px;
+    color: #747373;
+    box-sizing: border-box;
+}
+
+textarea {
+    width: 100%;
+    height: 384px;
+    padding: 30px;
+    margin-bottom: 90px;
+
+    font-weight: 500;
+    font-size: 20px;
+    color: #747373;
+    box-sizing: border-box;
+}
+
+button {
+    width: 165px;
+    height: 68px;
+    color: #111111;
+    
+    font-size: 24px;
+    font-weight: 700;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #f0f0f0;
+}
+/*
+Footer Section =======================================================================================
+*/
+.footer-section {
+    background-color: #2749ad;
+}
+
+.logo1{
+    /* position: absolute; */
+    left: 70px;
+    top: 60px;
+}
+
+.logo2{
+    /* position: absolute; */
+    left: 500px;
+    top: 70px;
+}
+
+.logo3{
+    /* position: absolute; */
+    left: 1150px;
+    top: 90px;
+}
+
+.logo4{
+    /*position: absolute;*/
+    left: 1146px;
+    top: 150px;
+}
+
+.logo5{
+    /* position: absolute; */
+    left: 1150px;   
+    top: 210px;
+}
+
+.text1{
+    color: white;
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 22px;
+    /* position: absolute; */
+    left: 520px;
+    top: 290px;
+    align-items: center;
+}
+
+.text2{
+    color: white;
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 22px;
+    /* position: absolute; */
+    left: 1210px;
+    top: 65px;
+}
+
+.text3{
+    color: white;
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 22px;
+    /* position: absolute; */
+    left: 1210px;
+    top: 130px;
+}
+
+.text4{
+    color: white;
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 22px;
+    /* position: absolute; */
+    left: 1210px;
+    top: 190px;
+=======
 body {
     background-color:#DEDEDE ;
     font-family: Arial, sans-serif;
@@ -75,4 +335,5 @@ nav {
     gap: 30px;
     font-size: 20px;
     
+>>>>>>> 85b0f1d10df657d329e4c6d23b80eb12727b5acc
 }
